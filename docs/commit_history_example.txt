@@ -1,0 +1,7 @@
+Ejemplo de resumen de historial de commits (útil para INDAUTOR):
+
+- 2025-10-17  Óscar Cruz Díaz  chore: inicializar repo con archivos legales
+- 2025-10-18  Óscar Cruz Díaz  feat: módulo de caducidades - interfaz básica
+- 2025-10-19  Óscar Cruz Díaz  fix: validaciones de fechas y formato
+- 2025-10-20  Óscar Cruz Díaz  docs: README, LICENSE, SECURITY, CONTRATO
+(Los commits reales del repo deben mantenerse; exporta 'git log --pretty' si necesitas)

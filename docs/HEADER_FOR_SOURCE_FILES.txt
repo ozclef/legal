@@ -1,0 +1,5 @@
+Copyright (c) 2025 Óscar Cruz Díaz (RFC: CUDO000714Q61)
+All rights reserved.
+Prohibido su uso o distribución sin autorización escrita del autor.
+
+Añade este bloque al inicio de tus archivos .js, .html, .py, .cs, etc.
